@@ -1,6 +1,9 @@
 # telekom_jpa_spring
 
 Materialien zum Training:
+- HR-Schema.pdf ----   Datenbank-Sample-Schema
+- JPA_Overview.pdf ---- Folien-Handout
+- h2.zip ----     Skripte zum Anlegen des Datenbank-Schemas
 - Java-Aufbau.pdf ----     Folien
 - SE_Samples.zip ----   Beispiele zu diversen Aspekten der Java SE
 - MitarbeiterVerwaltung.zip ----  Muster zur Mitarbeiterverwaltung alt
