@@ -1,0 +1,54 @@
+package sk.train.dao;
+
+import java.math.BigDecimal;
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import model.Employee;
+
+@Component
+public class EmpService {
+	
+	//@PersistenceContext
+	private EntityManager myem;
+
+	
+	public EmpService(EntityManager myem) {
+		super();
+		this.myem = myem;
+	}
+	
+	public void createEmp(Employee emp){
+		//System.err.println(emp);
+		myem.persist(emp);		
+	}
+	
+	public Employee readEmp(long id){
+		Employee emp = myem.find(Employee.class, id);
+		return emp;
+	}
+	
+	public void removeEmp(long id){
+		Employee emp = myem.find(Employee.class, id);
+		if (emp != null)
+		myem.remove(emp);
+	}
+	
+	public void setSalaryEmp(long id, BigDecimal sal){
+		Employee emp = myem.find(Employee.class, id);
+		if (emp != null)
+			emp.setSalary(sal);
+	}
+	
+	public List<Employee> getemps(){
+		//alle Angestellten: Named Query nutzen
+		return myem.createNamedQuery("Employee.findAll", Employee.class).getResultList();
+	}
+	
+	
+}
