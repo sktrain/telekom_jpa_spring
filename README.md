@@ -18,4 +18,16 @@ Code:
 - sk.train.x11_02_JPA_Solution ----  Nutzen von JPA zur Persistierung von Employee- und Department-Objekten (Schlüsselbeziehungen abbilden)
 - sk.train.x11_03_JPA_Ex  ----  Aufgabe: Nutzen von JPA-Queries
 - sk.train.x11_03_JPA_Solution  ----  Nutzen von JPA-Queries
+- sk.train.x11_04_JPA_Spring_Solution  ----   Nutzen deklarativer Transaktionssteuerung
+- sk.train.x11_05_JPA_Spring_Solution  ----   
+Add files via upload
+4 days ago
+sk.train.x11_05_JPA_Spring_Solution_SpringBoot
+Add files via upload
+3 days ago
+sk.train.x11_06_JPA_Spring_Solution
+Add files via upload
+3 days ago
+sk.train.x11_07_JPA_Spring_Solution
+Add files via upload 
 - sk.train.x11_SimpleJDBC_JPA_Sample ----  Erstes JPA-Beispiel vom 2.Tag
