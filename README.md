@@ -32,4 +32,6 @@ Code zu DB-Zugriff und JPA:
 
 
 Code zu Restful Web-Services:
+- karrer_demo_rest  ----  Demo zu JPA mit Rest-Frontend (Basis Kontoklasse)
+- karrer_demo_rest_fehlerhandling   ----  Demo zu JPA mit Rest-Frontend (Basis Kontoklasse) und Fehlerbehandlung
 - sk.train.x12_01_JPA_Rest_Boot_Solution  ----  CRUD via Rest mit Spring Boot
