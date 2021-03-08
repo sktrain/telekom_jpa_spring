@@ -24,3 +24,5 @@ Code:
 - sk.train.x11_06_JPA_Spring_Solution   ----  Erste Nutzung von JPA-Repository
 - sk.train.x11_07_JPA_Spring_Solution   ----  Erweiterung von JPA-Repository mit eigenen Zugriffs-Methoden
 - sk.train.x11_SimpleJDBC_JPA_Sample ----  Erstes JPA-Beispiel vom 2.Tag
+- Karrer_DBZugriff_InitializeDB   ----    Beispiel: zeigt wie man mit Spring Embedded Database aufsetzt und nutzt
+- Karrer_JPA_DEmo   ----    Beispiel: Nutzung von JPA mit Spring Boot
