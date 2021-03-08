@@ -4,6 +4,9 @@ Materialien zum Training:
 - HR-Schema.pdf ----   Datenbank-Sample-Schema
 - JPA_Overview.pdf ---- Folien-Handout
 - h2.zip ----     Skripte zum Anlegen des Datenbank-Schemas
+- 3-Spring MVC.pdf  ----  Folien zu Spring MVC und Rest mit Spring
+- Swagger.pdf   ----  Folien zu Swagger
+- java_servlets.pdf   ----    Folien zur Servlets
 
 
 Code zu DB-Zugriff und JPA:
