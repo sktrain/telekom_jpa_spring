@@ -6,7 +6,7 @@ Materialien zum Training:
 - h2.zip ----     Skripte zum Anlegen des Datenbank-Schemas
 
 
-Code:
+Code zu DB-Zugriff und JPA:
 - sk.train.x10_SimpleJDBC_Ex  ----  Aufgabe: Nutzen der Datenbank via JDBC ohne Spring-Support
 - sk.train.x10_SimpleJDBC_Solution  ----  Nutzen der Datenbank via JDBC ohne Spring-Support
 - sk.train.x10_SimpleJDBC_SpringBoot_Solution  ---- Nutzen der Datenbank via JDBC mit Unterstützung von Spring Boot
@@ -26,3 +26,7 @@ Code:
 - sk.train.x11_SimpleJDBC_JPA_Sample ----  Erstes JPA-Beispiel vom 2.Tag
 - Karrer_DBZugriff_InitializeDB   ----    Beispiel: zeigt wie man mit Spring Embedded Database aufsetzt und nutzt
 - Karrer_JPA_DEmo   ----    Beispiel: Nutzung von JPA mit Spring Boot
+
+
+Code zu Restful Web-Services:
+- sk.train.x12_01_JPA_Rest_Boot_Solution  ----  CRUD via Rest mit Spring Boot
