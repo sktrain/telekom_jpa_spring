@@ -35,3 +35,7 @@ Code zu Restful Web-Services:
 - karrer_demo_rest  ----  Demo zu JPA mit Rest-Frontend (Basis Kontoklasse)
 - karrer_demo_rest_fehlerhandling   ----  Demo zu JPA mit Rest-Frontend (Basis Kontoklasse) und Fehlerbehandlung
 - sk.train.x12_01_JPA_Rest_Boot_Solution  ----  CRUD via Rest mit Spring Boot
+- sk.train.x12_02_JPA_Rest_Boot_Solution  ----  Rest mit JPA, Spring Boot und ensprechender Fehlerbehandlung bzw. Statuscodes
+- sk.train.x12_03_JPA_Rest_Boot_Solution  ----  Rest mit JPA, Spring Boot und XML-MessageFormat mit Jackson (Dazu sind weitere Bibliotheken im ClassPath nötig)
+- 
+
