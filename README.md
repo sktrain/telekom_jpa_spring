@@ -2,7 +2,7 @@
 
 Materialien zum Training:
 - HR-Schema.pdf ----   Datenbank-Sample-Schema
-- JPA_Overview.pdf ---- Folien-Handout
+- handouts_jpa ---- Folien-Handouts
 - h2.zip ----     Skripte zum Anlegen des Datenbank-Schemas
 
 
