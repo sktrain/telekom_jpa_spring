@@ -26,6 +26,7 @@ Code zu DB-Zugriff und JPA:
 - sk.train.x11_08_JPA_Spring_Solution   ----  Mapping zwischen Employee und Department mit 2 JPA-Repositories
 - Karrer_DBZugriff_InitializeDB   ----    Beispiel: zeigt wie man mit Spring Embedded Database aufsetzt und nutzt
 - logback.xml   ----    Konfig-Datei für Logging via LogBack
+- sk.train.x1102-JPA-TransactionTemplate   ----  Nutzen des TransactionTemplate von Spring
 
 
 
