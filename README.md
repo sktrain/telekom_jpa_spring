@@ -39,6 +39,8 @@ Materialien zu Block 7 Restful Web-Services:
     sk.train.x12_03_JPA_Rest_Boot_Solution ---- Rest mit JPA, Spring Boot und XML-MessageFormat mit Jackson (Dazu sind weitere Bibliotheken im ClassPath nötig)
     sk.train.x12_03_JPA_Rest_Boot_Solution2 ---- Hier jetzt mit getrennten Controller-Klassen für XML und JSON
     sk.train.x12_04_JPA_Rest_Boot_Solution ---- jetzt kommt noch HATEOAS-Support hinzu
+    
+    JPABootDemo_Rest            ---- erstes DemoProjekt zu Rest auf Basis DemoJPA (Umbenannt damit kein Konflikt mit "JPABootDemo"
    
 
 
