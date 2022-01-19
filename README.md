@@ -28,6 +28,19 @@ Code zu DB-Zugriff und JPA:
 - logback.xml   ----    Konfig-Datei für Logging via LogBack
 - sk.train.x1102-JPA-TransactionTemplate   ----  Nutzen des TransactionTemplate von Spring
 
+Materialien zu Block 7 Restful Web-Services:
+
+    3-Spring MVC.pdf ---- Folien zu Spring MVC und Rest mit Spring
+    Swagger.pdf ---- Folien zu Swagger
+    java_servlets.pdf ---- Folien zur Servlets
+
+    sk.train.x12_01_JPA_Rest_Boot_Solution ---- CRUD via Rest mit Spring Boot
+    sk.train.x12_02_JPA_Rest_Boot_Solution ---- Rest mit JPA, Spring Boot und ensprechender Fehlerbehandlung bzw. Statuscodes
+    sk.train.x12_03_JPA_Rest_Boot_Solution ---- Rest mit JPA, Spring Boot und XML-MessageFormat mit Jackson (Dazu sind weitere Bibliotheken im ClassPath nötig)
+    sk.train.x12_03_JPA_Rest_Boot_Solution2 ---- Hier jetzt mit getrennten Controller-Klassen für XML und JSON
+    sk.train.x12_04_JPA_Rest_Boot_Solution ---- jetzt kommt noch HATEOAS-Support hinzu
+   
+
 
 
 
