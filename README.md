@@ -41,6 +41,10 @@ Materialien zu Block 7 Restful Web-Services:
     sk.train.x12_04_JPA_Rest_Boot_Solution ---- jetzt kommt noch HATEOAS-Support hinzu
     
     JPABootDemo_Rest            ---- erstes DemoProjekt zu Rest auf Basis DemoJPA (Umbenannt damit kein Konflikt mit "JPABootDemo"
+    karrer_demo_rest ---- Demo zu JPA mit Rest-Frontend (Basis Kontoklasse)
+    karrer_demo_rest_fehlerhandling ---- Demo zu JPA mit Rest-Frontend (Basis Kontoklasse) und Fehlerbehandlung (mit nettem Fehler!!)
+    karrer_demo_rest_fehlerhandling_xml_ohneJAXB2 ---- Demo zu JPA mit Rest-Frontend (Basis Kontoklasse), Fehlerbehandlung und XML-Unterstützung
+    karrer_demo_rest_hateoas ---- Demo zu JPA mit Rest-Frontend (Basis Kontoklasse) mit Hateoas
    
 
 
