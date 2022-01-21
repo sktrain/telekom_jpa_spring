@@ -33,6 +33,10 @@ Materialien zu Block 7 Restful Web-Services:
     3-Spring MVC.pdf ---- Folien zu Spring MVC und Rest mit Spring
     Swagger.pdf ---- Folien zu Swagger
     java_servlets.pdf ---- Folien zur Servlets
+    
+    Kap4_java_Threads.pdf ----- Folien zu Threads
+    9-SpringTest.pdf    ----    Folien zu Test
+    
 
     sk.train.x12_01_JPA_Rest_Boot_Solution ---- CRUD via Rest mit Spring Boot
     sk.train.x12_02_JPA_Rest_Boot_Solution ---- Rest mit JPA, Spring Boot und ensprechender Fehlerbehandlung bzw. Statuscodes
